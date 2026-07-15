@@ -1,0 +1,9 @@
+flask>=3.0.0
+werkzeug>=3.0.0
+rich>=13.7.0
+requests>=2.32.0
+reportlab>=4.0.0
+python-magic-bin>=0.4.14
+jefferson>=0.4.7
+lzallright>=0.2.6
+boofuzz>=0.4.2
